@@ -1,6 +1,11 @@
 no_dollar
 =========
 
+Well. 
+
+This isn't going to work because it's not hooked up to a server. Oops.
+
+
 Example of AJAX request without using JQuery, hence the name "no dollar"
 
 HERE is the example of AJAX using pure JavaScript:
